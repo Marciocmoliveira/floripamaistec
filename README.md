@@ -1,2 +1,2 @@
 # floripamaistec
-repositório com todos os códigos dos exercícios do curso floripaMaisTec FullStack
+Repositório com todos os códigos dos exercícios desenvolvidos no curso floripaMaisTec FullStack.
